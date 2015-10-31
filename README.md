@@ -3,7 +3,7 @@ Design Patterns
 
 
 #### Basics
-* Basic Programming Principles can be checked at (Programming Principles)[http://webpro.github.io/programming-principles/]
+* Basic Programming Principles can be checked at [Programming Principles](http://webpro.github.io/programming-principles/)
 * [Effective Java (2nd Edition)](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683)
 * [Java Generics and Collections](http://www.amazon.com/Java-Generics-Collections-Maurice-Naftalin/dp/0596527756/)
 * [Let's Modify the Objects-First Approach into Design-Patterns-First](http://edu.pecinovsky.cz/papers/2006_ITiCSE_Design_Patterns_First.pdf)
